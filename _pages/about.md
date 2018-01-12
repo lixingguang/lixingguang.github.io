@@ -15,7 +15,7 @@ I have worked on a diverse set of viruses in the past, including influenza B, ME
 You may know me from my work on the latter.
 
 ***
-<iframe class="embed-responsive-item" src="http://www.youtube.com/embed/j4Ut4krp8GQ?enablejsapi=1&origin=https://evogytis.github.io/"></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/j4Ut4krp8GQ"></iframe>
 ***
 
 What to expect
