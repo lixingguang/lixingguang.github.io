@@ -1,5 +1,5 @@
 ---
-title: "Virus genomes reveal factors that spread and sustain the Ebola epidemic"
+title: "Virus genomes reveal factors that spread and sustained the Ebola epidemic"
 collection: talks
 type: "Talk"
 permalink: /talks/2017-10-24-baltimore

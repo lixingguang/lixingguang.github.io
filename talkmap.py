@@ -14,11 +14,12 @@
 import glob
 import getorg
 from geopy import Nominatim
+import time
 
 g = glob.glob("*.md")
 
 
-geocoder = Nominatim()
+geocoder = Nominatim(timeout=5)
 location_dict = {}
 location = ""
 permalink = ""
@@ -33,8 +34,10 @@ for file in g:
             lines_trim = lines[loc_start:]
             loc_end = lines_trim.find('"')
             location = lines_trim[:loc_end]
-                            
-        location_dict[location] = geocoder.geocode(location)
+
+        if location not in location_dict: ## only decode location if it hasn't been searched for yet
+            location_dict[location] = geocoder.geocode(location)
+            time.sleep(5) ## prevent timeouts
         print(location, "\n", location_dict[location])
 
 

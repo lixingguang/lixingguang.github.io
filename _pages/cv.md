@@ -67,6 +67,7 @@ Workshops
 Public outreach
 ======
 
+* 2018 [Invited talk at Vancouver Bioinformatics Users Group](http://www.vanbug.org/2018/january-11th-special-event/), "Virus genomes reveal factors that spread and sustained the West African Ebola virus epidemic".
 * 2017 [Invited talk at Cascadia Users of Geospatial Open Source Spring Fling](http://cugos.org/2017-spring-fling/), "Reconstructing the history of the Ebola epidemic".
 * 2017 [Washington Post editorial](https://www.washingtonpost.com/opinions/the-march-for-science-could-save-lives/2017/04/19/d042f956-2476-11e7-a1b3-faff0034e2de_story.html), "The March for Science could save lives".
 * 2017 [genomeweb article](https://www.genomeweb.com/sequencing/ebola-genomes-help-reconstruct-virus-spread-during-west-african-outbreak), "Ebola Genomes Help Reconstruct Virus' Spread During West African Outbreak".
