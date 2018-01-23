@@ -31,7 +31,11 @@
         <a href="{{ post.link }}">{{ title }}</a>
         <a href="{{ base_path }}{{ post.paperurl }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a><span data-badge-popover="top" data-badge-type="4" data-doi="{{ post.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></span>
+        {% if post.host %}
+          <a href="{{ post.permalink }}" target="permalink">{{ title }}</a>
+        {% else %}
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a><span data-badge-popover="top" data-badge-type="4" data-doi="{{ post.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></span>
+        {% endif %}
       {% endif %}
     </h3>
     {% if post.read_time %}
@@ -42,6 +46,11 @@
         <a href="{{ post.paperurl }}">{{ post.citation }}</a>
       </p>
     {% endif %}
+    {% if post.host %}
+      <span class="page__meta">{{ post.date | date: "%Y %b %d" }}</span> <span class="archive__item-excerpt">{{ post.host }}</span>
+
+    {% endif %}
+
     </li>
  </article>
 </div>
