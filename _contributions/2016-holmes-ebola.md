@@ -1,11 +1,11 @@
 ---
 title: "The evolution of Ebola virus: Insights from the 2013–2016 epidemic"
-collection: publications
-permalink: /publication/2016-ebola-review
+collection: contributions
+permalink: /contributions/2016-holmes-ebola
 date: 2016-10-12
 venue: 'Science'
 paperurl: 'http://science.sciencemag.org/content/353/6300/658.1'
-citation: 'Holmes EC, Dudas G, Rambaut A, Andersen KG, 2016. &quot;Comment on “The evolution of Ebola virus: Insights from the 2013–2016 epidemic&quot;. <i>Nature</i> 538(7624): 193:200.'
+citation: 'Holmes EC, <b>Dudas G</b>, Rambaut A, Andersen KG, 2016. &quot;Comment on “The evolution of Ebola virus: Insights from the 2013–2016 epidemic&quot;. <i>Nature</i> 538(7624): 193:200.'
 doi: doi:10.1038/nature19790
 tags:
   - Ebola virus

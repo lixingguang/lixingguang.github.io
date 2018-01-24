@@ -184,6 +184,9 @@ collections:
   outreach:
     output: true
     permalink: /:collection/:path/
+  contributions:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -248,6 +251,16 @@ defaults:
       layout: single
       author_profile: true
       comment: true
+  # _contributions
+  - scope:
+      path: ""
+      type: contributions
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
 
 # Sass/SCSS
 sass:

@@ -20,7 +20,7 @@ Education
 ======
 
 * 2011-2016 PhD, University of Edinburgh, Edinburgh, UK.
-: Supervisor: Prof. Andrew Rambaut, secondary supervisor: Prof. Andrew Leigh-Brown; Thesis examiners: Prof. Oliver G Pybus, Prof. Paul Sharp.
+: Supervisor: Prof. Andrew Rambaut, secondary supervisor: Prof. Andrew Leigh-Brown; [Thesis](https://www.era.lib.ed.ac.uk/handle/1842/20442) examiners: Prof. Oliver G Pybus, Prof. Paul Sharp.
 
 * 2007-2011 BSc, Biological Sciences with Honours in Evolutionary Biology, University of Edinburgh, Edinburgh, UK.
 : First Class, Ashworth Prize and Class Medal
@@ -29,6 +29,13 @@ Publications
 ======
 
   <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Research contributions
+======
+
+  <ul>{% for post in site.contributions reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 

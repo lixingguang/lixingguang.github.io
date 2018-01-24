@@ -42,9 +42,9 @@
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
-        {% elsif post.collection == 'publications' and post.doi %}
+        {% elsif (post.collection == 'publications' or post.collection == 'contributions') and post.doi %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y %b" }} <span data-badge-popover="top" data-badge-type="1" data-doi="{{ post.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></span></p>
-        {% elsif post.collection == 'publications' %}
+        {% elsif post.collection == 'publications' or post.collection == 'contributions' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y %b" }}</p>
         {% elsif post.collection == 'outreach' %}
           <p>{{ post.date | default: "1900-01-01" | date: "%Y %b %d" }}, {{ post.host }}</p>
