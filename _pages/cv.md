@@ -56,7 +56,7 @@ Teaching
 Professional service
 ======
 
-* _Ad hoc_ referee for PLoS Currents Outbreaks, eLife, Molecular Biology and Evolution, PLoS Pathogens, PeerJ, Proceedings of the Royal Society B, Scientific Reports, Virology Journal, Virus Evolution.
+* _Ad hoc_ referee for PLoS Currents Outbreaks, eLife, Molecular Biology and Evolution, Molecular Epidemiology and Evolutionary Genetics of Infectious Diseases, PLoS Pathogens, PeerJ, Proceedings of the Royal Society B, Scientific Reports, Virology Journal, Virus Evolution.
 * Social media manager for Virus Evolution.
 
 Awards

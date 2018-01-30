@@ -5,7 +5,7 @@ permalink: /contributions/2018-dellicour-ebola
 date: 2018-01-17
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/early/2018/01/17/163691'
-citation: 'Dellicour S, Baele G, <b>Dudas G</b>, Faria NR, Pybus OG, Suchard MA, Rambaut A, Lemey P, 2018. &quot;Phylodynamic assessment of intervention strategies for the West African Ebola virus outbreak&quot;. <i>bioRxiv</i>: jiw177.'
+citation: 'Dellicour S, Baele G, <b>Dudas G</b>, Faria NR, Pybus OG, Suchard MA, Rambaut A, Lemey P, 2018. &quot;Phylodynamic assessment of intervention strategies for the West African Ebola virus outbreak&quot;. <i>bioRxiv</i>: 163691.'
 doi: 10.1101/163691
 tags:
   - Ebola virus
