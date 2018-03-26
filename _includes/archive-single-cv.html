@@ -34,7 +34,7 @@
         {% if post.host %}
           <a href="{{ post.permalink }}" target="permalink">{{ title }}</a>
         {% else %}
-          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a><span data-badge-popover="top" data-badge-type="4" data-doi="{{ post.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></span>
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a><span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-style="small_rectangle"></span><span data-badge-popover="right" data-badge-type="4" data-doi="{{ post.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></span>
         {% endif %}
       {% endif %}
     </h3>
