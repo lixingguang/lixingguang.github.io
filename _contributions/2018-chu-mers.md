@@ -4,7 +4,7 @@ collection: contributions
 permalink: /contributions/2018-chu-mers
 date: 2018-03-20
 venue: 'PNAS'
-paperurl: 'http://www.pnas.org/content/early/2018/02/28/1718769115'
+paperurl: 'http://www.pnas.org/content/115/12/3144'
 citation: 'Chu DKW, Hui Kenrie PY, Perera RAPM, Miguel E, Niemeyer D, Zhao J, Channappanavar R, <b>Dudas G</b>, Oladipo JO, Traoré A, Fassi-Fihri O, Ali A, Demissie GF, Muth D, Chan MCW, Nicholls JM, Meyerholz DK, Kuranga SA, Mamo G, Zhou Z, So RTY, Hemida MG, Webby RJ, Roger F, Rambaut A, Poon LLM, Perlman S, Drosten C, Chevalier V, Peiris M, 2018. &quot;MERS coronaviruses from camels in Africa exhibit region-dependent genetic diversity&quot;. <i>PNAS</i> 115(12): 3144-3149.'
 doi: 10.1073/pnas.1718769115
 tags:
