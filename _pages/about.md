@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 Welcome to my site.
-My name is Gytis and I'm a scientist who works on viruses.
-I employ [Bayesian phylogenetics](http://beast.community/index.html) to investigate how viruses evolve in response to ecological circumstances they experience.
+My name is Gytis Dudas and I'm a scientist who works on viruses.
+I employ [Bayesian phylogenetics](http://beast.community/index.html) to study population structure in RNA viruses and how it can be used to understand their patterns of transmission and evolution.
 I have worked on a diverse set of viruses in the past, including influenza B, MERS corona-, Zika, and Ebola viruses.
 You may know me from my work on the latter.
 
