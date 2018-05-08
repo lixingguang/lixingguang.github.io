@@ -11,8 +11,8 @@ var addressPoints = [
   ], 
   [
     "Edinburgh, UK", 
-    55.9495628, 
-    -3.1914972
+    55.9496416, 
+    -3.1902352
   ], 
   [
     "Tucson, Arizona", 
@@ -31,8 +31,8 @@ var addressPoints = [
   ], 
   [
     "Hong Kong", 
-    22.350627, 
-    114.1849161
+    22.2793278, 
+    114.1628131
   ], 
   [
     "Amsterdam, Netherlands", 
@@ -65,9 +65,19 @@ var addressPoints = [
     -4.2435817
   ], 
   [
+    "San Francisco, California", 
+    8.6545394, 
+    -73.3676149
+  ], 
+  [
     "Oxford, UK", 
     51.7520131, 
     -1.2578499
+  ], 
+  [
+    "Bellevue, Washington", 
+    47.6144219, 
+    -122.1923372
   ], 
   [
     "Zurich, Switzerland", 
