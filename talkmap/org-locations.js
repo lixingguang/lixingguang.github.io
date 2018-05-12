@@ -60,14 +60,19 @@ var addressPoints = [
     16.3725042
   ], 
   [
+    "San Diego, California", 
+    32.7174209, 
+    -117.1627714
+  ], 
+  [
     "Glasgow, UK", 
     55.856656, 
     -4.2435817
   ], 
   [
-    "San Francisco, California", 
-    8.6545394, 
-    -73.3676149
+    "San Francisco Bay Area, California", 
+    37.7884969, 
+    -122.3558473
   ], 
   [
     "Oxford, UK", 
