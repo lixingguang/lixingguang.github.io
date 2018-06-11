@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "selective competence"
+title                    : "Gytis Dudas"
 title_separator          : "-"
 name                     : &name "Gytis Dudas"
 description              : &description "personal description"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gytis Dudas"
+  name             : ""
   avatar           : "profile.png"
   bio              : "Evolutionary biologist by training, a rogue by nature. Broad interests in (-ssRNA) virus evolution as seen through the lens of (Bayesian) phylogenetics."
   location         : "Seattle, WA"
