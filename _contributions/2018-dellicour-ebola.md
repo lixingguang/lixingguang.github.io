@@ -6,7 +6,7 @@ date: 2018-06-08
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-018-03763-2'
 citation: 'Dellicour S, Baele G, <b>Dudas G</b>, Faria NR, Pybus OG, Suchard MA, Rambaut A, Lemey P, 2018. &quot;Phylodynamic assessment of intervention strategies for the West African Ebola virus outbreak&quot;. <i>Nature Communications</i> 9: 2222.'
-doi:  10.1038/s41467-018-03763-2
+doi: 10.1038/s41467-018-03763-2
 tags:
   - Ebola virus
 ---

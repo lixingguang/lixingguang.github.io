@@ -13,7 +13,9 @@ redirect_from:
 Postgraduate career
 ======
 
-* 2016- Mahan Postdoctoral Fellowship, Fred Hutchinson Cancer Research Center, Seattle, WA, USA
+* 2018- Consultant, The Scripps Research Institute
+* 2018- Consultant, BioHub
+* 2016-2018 Mahan Postdoctoral Fellowship, Fred Hutchinson Cancer Research Center, Seattle, WA, USA
 : Mentor: Trevor Bedford.
 
 Education
