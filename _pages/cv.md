@@ -64,9 +64,10 @@ Professional service
 Awards
 ======
 
-* Young Investigator Award to attend "Next Generation Informatics for Global Health: Disease Dynamics and Digital Epidemiology" in Hong Kong.
-* SMBE Young Investigator Travel Award to attend the SMBE 2015 meeting in Vienna.
-* Wellcome Trust Travel Grant to attend the "Forecasting Evolution?" meeting in Lisbon.
+* 2018 SciPy John Hunter Excellence in Plotting Prize, 1st place, for "History of Ebola Virus Epidemic in West Africa 2013-2015", a matplotlib-based phylogeographic visualisation.
+* 2017 Young Investigator Award to attend "Next Generation Informatics for Global Health: Disease Dynamics and Digital Epidemiology" in Hong Kong.
+* 2015 SMBE Young Investigator Travel Award to attend the SMBE 2015 meeting in Vienna.
+* 2015 Wellcome Trust Travel Grant to attend the "Forecasting Evolution?" meeting in Lisbon.
 
 Workshops
 ======
