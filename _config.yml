@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xingguang Li"
+title                    : "lixingguang"
 title_separator          : "-"
-name                     : &name "Xingguang Li"
+name                     : &name "lixingguang"
 description              : &description "personal description"
 url                      : https://lixingguang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : ""
   avatar           : "profile.png"
-  bio              : "Evolutionary biologist by training, a rogue by nature. Broad interests in (-ssRNA) virus evolution as seen through the lens of (Bayesian) phylogenetics."
-  location         : "Vilnius, Lithuania"
+  bio              : "Computational and evolutionary biologist. Broad interests in better understanding the evolution of emerging human viral pathogens, in particular, fast evolving RNA viruses that have been sampled through time."
+  location         : "Wuhan,China "
   employer         :
   googlescholar    : "http://scholar.google.co.uk/citations?user=nwiME18AAAAJ&hl=en"
   email            :
